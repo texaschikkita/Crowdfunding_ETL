@@ -1,20 +1,25 @@
 
+![Project_2_ETL_ERD](https://user-images.githubusercontent.com/120339830/228096987-80ed3f59-8cf5-4865-b374-41dc6a4fcf7d.png)
+
+![qdb](https://user-images.githubusercontent.com/120339830/228097047-f7823405-b7d2-43ff-8a50-755978ea22f7.png)
+
+![SQL_Campaign](https://user-images.githubusercontent.com/120339830/228097060-d1f447a4-ba27-4c94-aa35-64033d294106.png)
+
+![SQL_Category](https://user-images.githubusercontent.com/120339830/228097073-3f3c6158-2ba4-4e8f-afd8-673a4a02a4f5.png)
+
+![SQL_Contacts](https://user-images.githubusercontent.com/120339830/228097092-48e1b97f-d577-4da3-a2a7-144f14bbe64f.png)
+
+![SQL_Subcategory](https://user-images.githubusercontent.com/120339830/228097113-bca8f405-8997-4a79-a921-bb8e0dd6cd69.png)
 
 ![select from employees](https://user-images.githubusercontent.com/120339830/228096521-53884532-768c-4687-9c53-46743972914e.png)
 
-
-
 ![select from departments](https://user-images.githubusercontent.com/120339830/228096532-05045d41-095c-40db-a119-eb16b801099a.png)
-
 
 ![select from departments_employees](https://user-images.githubusercontent.com/120339830/228096549-77309403-aa30-4891-a77c-5abfbfd98f58.png)
 
-
 ![select from managers](https://user-images.githubusercontent.com/120339830/228096572-0e9ed2a5-460b-4eab-b525-2202c1a39f9d.png)
 
-
 ![select from salaries](https://user-images.githubusercontent.com/120339830/228096580-fa846822-34c7-4cc5-b8d1-aaac766213d6.png)
-
 
 ![select from titles](https://user-images.githubusercontent.com/120339830/228096594-435672f4-52ba-4681-a94b-c00bc0c49f44.png)
 
