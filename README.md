@@ -1,3 +1,24 @@
+
+
+![select from employees](https://user-images.githubusercontent.com/120339830/228096521-53884532-768c-4687-9c53-46743972914e.png)
+
+
+
+![select from departments](https://user-images.githubusercontent.com/120339830/228096532-05045d41-095c-40db-a119-eb16b801099a.png)
+
+
+![select from departments_employees](https://user-images.githubusercontent.com/120339830/228096549-77309403-aa30-4891-a77c-5abfbfd98f58.png)
+
+
+![select from managers](https://user-images.githubusercontent.com/120339830/228096572-0e9ed2a5-460b-4eab-b525-2202c1a39f9d.png)
+
+
+![select from salaries](https://user-images.githubusercontent.com/120339830/228096580-fa846822-34c7-4cc5-b8d1-aaac766213d6.png)
+
+
+![select from titles](https://user-images.githubusercontent.com/120339830/228096594-435672f4-52ba-4681-a94b-c00bc0c49f44.png)
+
+
 # Crowdfunding_ETL
 Project 2
 Due Thursday by 11:59pm Points 100 Submitting a text entry box or a website url
